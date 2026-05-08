@@ -212,6 +212,10 @@ Teknik olarak WearOS uygulaması, HTTPS üzerinden VPS tarafındaki relay servis
 
 Böylece akıllı saatten verilen komut, VPS üzerinde çalışan agent işleme katmanına ve Telegram tabanlı takip sistemine bağlanmış olur.
 
+<img width="405" height="459" alt="image" src="https://github.com/user-attachments/assets/95ab7d53-5053-4ee3-b785-62753f7e6965" />
+<img width="421" height="404" alt="image" src="https://github.com/user-attachments/assets/57132e59-697c-4528-8efd-085d80580df4" />
+
+
 ---
 
 ## Mevcut Sürüm: V0.5
